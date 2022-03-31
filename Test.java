@@ -3,5 +3,6 @@ public class Test{
         System.out.println("hello github demo");
         System.out.println("testing git merges conflicts");
         System.out.println("change 1");
+        //change 1
     }
 }
